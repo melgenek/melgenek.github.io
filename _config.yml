@@ -11,7 +11,7 @@ date_format: "%-d %b, %Y"
 google_verification: "27hdqSsss2dY8Qwz0b8nG4OiLhoU14L0YGEPqIbAQ5k"
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics: ""
+google_analytics:
 
 # Optional features
 animated:             false
@@ -26,7 +26,7 @@ disqus_shortname: melgenek-github-io
 
 # Social icons
 github_username: melgenek
-twitter_username: ""
+twitter_username:
 linkedin_username: yevhenii-melnyk
 
 text:
